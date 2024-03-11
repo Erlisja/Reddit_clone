@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Reddit_clone" parent="Theme.AppCompat.Light">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorAccent">@color/blue</item>
+        <item name="android:shadowColor">@color/blue</item>
+        <item name="android:drawable">@color/blue</item>
+    </style>
+
+    <style name="Theme.Reddit_clone" parent="Base.Theme.Reddit_clone" />
+</resources>

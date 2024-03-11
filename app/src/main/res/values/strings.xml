@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reddit_for_Rabbit_clone</string>\
+    <string name="display_message">Create an account</string>
+    <string name="user_consent">By continuing,you agree to our User Agreement and Privacy Policy</string>
+    <string name="check_box">I agree to get emails about cool stuff on Reddit</string>
+    <string name="google_button">Continue with Google</string>
+    <string name="apple_button">Continue with Apple</string>
+    <string name="login_button">Log in</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="continue_button">Continue</string>
+</resources>

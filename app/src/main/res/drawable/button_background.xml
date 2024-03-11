@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <!-- res/drawable/button_background.xml -->
+    <selector xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Button Pressed State -->
+        <item android:state_pressed="true">
+            <shape>
+                <solid android:color="#FF5722" /> <!-- Button color when pressed -->
+                <corners android:radius="8dp" /> <!-- Rounded corners, adjust as needed -->
+            </shape>
+        </item>
+
+        <!-- Button Disabled State -->
+        <item android:state_enabled="false">
+            <shape>
+                <solid android:color="#BDBDBD" /> <!-- Button color when disabled -->
+                <corners android:radius="8dp" /> <!-- Rounded corners, adjust as needed -->
+            </shape>
+        </item>
+
+        <!-- Default Button State -->
+        <item>
+            <shape>
+                <solid android:color="#2196F3" /> <!-- Default button color -->
+                <corners android:radius="8dp" /> <!-- Rounded corners, adjust as needed -->
+            </shape>
+        </item>
+    </selector>
+
