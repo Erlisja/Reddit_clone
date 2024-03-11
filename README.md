@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Reddit** app:
 
-<img src='(https://designvault.io/shot/1475-0701232131/)' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+https://designvault.io/shot/1475-0701232131/
 
 ## Video Demo
 
@@ -53,10 +53,10 @@ Here's a video / GIF that demos all of the app's implemented features:
     </a>
   </div>
   
-<img src='https://imgur.com/a/HPBHeK0.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
-
+https://imgur.com/a/HPBHeK0.gif
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/HPBHeK0" data-context="false" ><a href="//imgur.com/a/HPBHeK0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
 - [ScreenToGif](https://www.screentogif.com/) for Windows
